@@ -1,0 +1,14 @@
+
+X
+java:S21848"BCast one of the operands of this division operation to a "double".(Øˆº¹
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÏùŞÜúÿÿÿÿ
+b	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çî¯y
+N	java:S106."9Replace this use of System.out or System.err by a logger.(–ø ¨
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ÍüÏé
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Æ¤ó
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ñ¹²
+N	java:S106="9Replace this use of System.out or System.err by a logger.(²ßÙé
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(º±à›ıÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(€ª‹ş
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(öò“Â
+M	java:S106P"9Replace this use of System.out or System.err by a logger.(ö„ö

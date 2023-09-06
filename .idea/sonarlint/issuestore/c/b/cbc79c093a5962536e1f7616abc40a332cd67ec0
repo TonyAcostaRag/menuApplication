@@ -1,0 +1,14 @@
+
+]
+java:S11926"HDefine a constant instead of duplicating this literal "Km/hr: " 3 times.(è¾Õa
+H
+java:S1135"2Complete the task associated to this TODO comment.(à–îº
+S	java:S106."9Replace this use of System.out or System.err by a logger.(äß¤Şşÿÿÿÿ
+M	java:S1066"9Replace this use of System.out or System.err by a logger.(è¾Õa
+M	java:S106;"9Replace this use of System.out or System.err by a logger.(è¾Õa
+M	java:S106>"9Replace this use of System.out or System.err by a logger.(è¾Õa
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(È‚Ø
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(È‚Ø
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ËÚ¤Õùÿÿÿÿ
+C
+java:S1068"(Remove this unused "scan" private field.(„İ¾¯ûÿÿÿÿ

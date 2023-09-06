@@ -1,0 +1,51 @@
+
+L
+java:S1444"*Make this "public static tres" field final(‹ÿ ‡ÿÿÿÿÿ8»•°¤Ï0
+E
+java:S1444"*Make this "public static util" field final(Í†Æ½ùÿÿÿÿ
+O
+java:S1444"4Make this "public static vehicleRequest" field final(›Ùúÿÿÿÿ
+@
+java:S1444"*Make this "public static scan" field final(ªÜÖÀ
+P
+java:S1444"5Make this "public static applicationMenu" field final(çŞşÿÿÿÿ
+M
+java:S1444"2Make this "public static seeMenuAgain" field final(¥¢¾Şÿÿÿÿÿ
+r
+java:S1104"PMake tres a static final constant or non-public and provide accessors if needed.(‹ÿ ‡ÿÿÿÿÿ8¾•°¤Ï0
+k
+java:S1104"PMake util a static final constant or non-public and provide accessors if needed.(Í†Æ½ùÿÿÿÿ
+u
+java:S1104"ZMake vehicleRequest a static final constant or non-public and provide accessors if needed.(›Ùúÿÿÿÿ
+f
+java:S1104"PMake scan a static final constant or non-public and provide accessors if needed.(ªÜÖÀ
+v
+java:S1104"[Make applicationMenu a static final constant or non-public and provide accessors if needed.(çŞşÿÿÿÿ
+s
+java:S1104"XMake seeMenuAgain a static final constant or non-public and provide accessors if needed.(¥¢¾Şÿÿÿÿÿ
+P
+java:S2479":Remove the non-escaped \u0009 character from this literal.(è§ıÌ
+O
+java:S2479":Remove the non-escaped \u0009 character from this literal.(‹ÊG
+U
+java:S2479":Remove the non-escaped \u0009 character from this literal.(ÃÓüğÿÿÿÿÿ
+\
+java:S2479":Remove the non-escaped \u0009 character from this literal.(ÑŠ±öúÿÿÿÿ8Ë×´¤Ï0
+P
+java:S2479":Remove the non-escaped \u0009 character from this literal.(Äì Ğ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ú¸†³
+M
+java:S11352"2Complete the task associated to this TODO comment.(÷ÃöÅûÿÿÿÿ
+H
+java:S11353"2Complete the task associated to this TODO comment.(ÚšöÔ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(£¢§ßúÿÿÿÿ
+m	java:S128Q"LEnd this switch case with an unconditional break, return or throw statement.(ÌÊëÎüÿÿÿÿ8©±¢¤Ï0
+f	java:S128N"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(•äŒØ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(¤ŸÀŞûÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(á±Ÿ”ûÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(§íü¢ûÿÿÿÿ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(™óõİ
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(×ù˜ûÿÿÿÿ8®±¢¤Ï0
+J
+java:S14817"(Remove this unused "num" local variable.(†¬›Äûÿÿÿÿ8÷Ğ²¤Ï0

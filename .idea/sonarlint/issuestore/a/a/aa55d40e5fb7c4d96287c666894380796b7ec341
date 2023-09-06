@@ -1,0 +1,26 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Óé½
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜¤‰„
+N
+java:S1197	"8Move the array designator from the variable to the type.(±´’
+A
+java:S1659"&Declare "sumadiag" on a separate line.(ÎìŒ­üÿÿÿÿ
+=
+java:S1659""Declare "acum" on a separate line.(ÎìŒ­üÿÿÿÿ
+=
+java:S1659""Declare "prom" on a separate line.(ÎìŒ­üÿÿÿÿ
+:
+java:S1659"Declare "i" on a separate line.(ÎìŒ­üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œãéŸ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÏŒ‹ñşÿÿÿÿ
+Q	java:S125 "<This block of commented-out lines of code should be removed.(š×
+Q	java:S125&"<This block of commented-out lines of code should be removed.(¯Öœ“
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Ù™±Şúÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(ï¹Ø²
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8©¬«¥Ï0
+V	java:S125A"<This block of commented-out lines of code should be removed.(øÙøåøÿÿÿÿ
+D
+java:S1481")Remove this unused "prom" local variable.(ÎìŒ­üÿÿÿÿ
+A
+java:S1481"&Remove this unused "i" local variable.(ÎìŒ­üÿÿÿÿ
